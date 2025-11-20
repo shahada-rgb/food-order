@@ -1,5 +1,6 @@
 import React from 'react'
-import { NavLink } from 'react-router-d
+import { NavLink } from "react-router-dom";
+import { FaShoppingCart } from 'react-icons/fa';
 
 function Navbar() {
   return (
