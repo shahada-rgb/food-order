@@ -6,6 +6,7 @@ import Cart from './pages/Cart';
 import Login from './pages/Login';
 import Checkout from './pages/Checkout';
 import Success from './pages/Success';
+import HeroSection from './Compponents/Hero/HeroSection';
 
 function App() {
  
@@ -14,6 +15,7 @@ function App() {
     <>
       <BrowserRouter>
       <Navbar/>
+      <HeroSection/>
       <Routes>
         <Route path='/' element={<Home/>} />
 
