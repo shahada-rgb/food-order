@@ -1,9 +1,10 @@
 import React from 'react'
+import Cartdisp from '../../Compponents/user/Cartdisp'
 
 function Cart() {
   return (
     <div>
-      <h1>Cart Page</h1>
+      <Cartdisp />
     </div>
   )
 }

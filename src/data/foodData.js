@@ -1,5 +1,8 @@
- export const foodData=[
+
+
+export const foodData = [
   {
+
     "id": 1,
     "name": "Classic Chicken Burger",
     "price": 120,
@@ -21,7 +24,7 @@
     "price": 150,
     "oldPrice": 180,
     "category": "Burger",
-    "image": "https://images.pexels.com/photos/4109085/pexels-photo-4109085.jpeg"
+    "image": "https://tse1.mm.bing.net/th/id/OIP.cNRllrcdZJ9XHikxk9CCMQHaFj?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 4,
@@ -37,7 +40,7 @@
     "price": 110,
     "oldPrice": 140,
     "category": "Burger",
-    "image": "https://images.pexels.com/photos/3026809/pexels-photo-3026809.jpeg"
+    "image": "https://media.istockphoto.com/id/1501546111/photo/barbeque-chicken-meat-burger-on-stone.jpg?s=1024x1024&w=is&k=20&c=ur9f07_x3ueWQ9BAfvDJttpsxuYr6Z_Y_zxxVbj4bm8="
   },
   {
     "id": 6,
@@ -45,7 +48,7 @@
     "price": 170,
     "oldPrice": 200,
     "category": "Burger",
-    "image": "https://images.pexels.com/photos/1615197/pexels-photo-1615197.jpeg"
+    "image": "https://tse2.mm.bing.net/th/id/OIP.2j2b66H-DhyDXEmFL2wBqwHaEJ?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 7,
@@ -77,7 +80,7 @@
     "price": 200,
     "oldPrice": 240,
     "category": "Pizza",
-    "image": "https://images.pexels.com/photos/1596885/pexels-photo-1596885.jpeg"
+    "image": "https://tse3.mm.bing.net/th/id/OIP.VUCfq4X_8rvvCIuwGtiAnQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 11,
@@ -85,7 +88,7 @@
     "price": 270,
     "oldPrice": 320,
     "category": "Pizza",
-    "image": "https://images.pexels.com/photos/4109086/pexels-photo-4109086.jpeg"
+    "image": "https://tse4.mm.bing.net/th/id/OIP.sqG2x-UogVf6Qrl9x5DMtQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 12,
@@ -93,7 +96,7 @@
     "price": 290,
     "oldPrice": 340,
     "category": "Pizza",
-    "image": "https://images.pexels.com/photos/4109121/pexels-photo-4109121.jpeg"
+    "image": "https://th.bing.com/th/id/OIP.zO0lJ0m0VfQqpr2ZIqi67gHaEJ?w=311&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
   },
   {
     "id": 13,
@@ -101,7 +104,7 @@
     "price": 150,
     "oldPrice": 180,
     "category": "Fried",
-    "image": "https://images.pexels.com/photos/7658111/pexels-photo-7658111.jpeg"
+    "image": "https://lakegenevacountrymeats.com/wp-content/uploads/Fried-Chicken-Pieces-1.jpg"
   },
   {
     "id": 14,
@@ -109,7 +112,7 @@
     "price": 220,
     "oldPrice": 260,
     "category": "Fried",
-    "image": "https://images.pexels.com/photos/2336673/pexels-photo-2336673.jpeg"
+    "image": "https://th.bing.com/th?q=Fried+Chicken+Wings+Wing+Bucket&w=120&h=120&c=1&rs=1&qlt=70&o=7&cb=1&dpr=1.3&pid=InlineBlock&rm=3&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247"
   },
   {
     "id": 15,
@@ -117,7 +120,7 @@
     "price": 140,
     "oldPrice": 160,
     "category": "Fried",
-    "image": "https://images.pexels.com/photos/60617/fried-chicken-fast-food-crispy-60617.jpeg"
+    "image": "https://tse4.mm.bing.net/th/id/OIP.6UNsXFICmou3nb7tS5lLCQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
   },
   {
     "id": 16,
@@ -125,7 +128,7 @@
     "price": 180,
     "oldPrice": 210,
     "category": "Fried",
-    "image": "https://images.pexels.com/photos/4669210/pexels-photo-4669210.jpeg"
+    "image": "https://www.recipetineats.com/wp-content/uploads/2022/07/Crispy-Baked-Chicken-Drumsticks_5-SQ.jpg"
   },
   {
     "id": 17,
@@ -133,7 +136,7 @@
     "price": 120,
     "oldPrice": 150,
     "category": "Fried",
-    "image": "https://images.pexels.com/photos/4109110/pexels-photo-4109110.jpeg"
+    "image": "https://th.bing.com/th/id/OIP.bNEbGRJ3EIUetJtODfiU5QHaEO?w=288&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
   },
   {
     "id": 18,
@@ -141,7 +144,7 @@
     "price": 130,
     "oldPrice": 160,
     "category": "Fried",
-    "image": "https://images.pexels.com/photos/4109132/pexels-photo-4109132.jpeg"
+    "image": "https://th.bing.com/th/id/OIP.ZW1u6mtvByDfOQIf2s_0tgHaE7?w=294&h=196&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
   },
   {
     "id": 19,
@@ -149,7 +152,7 @@
     "price": 80,
     "oldPrice": 100,
     "category": "Snacks",
-    "image": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg"
+    "image": "https://th.bing.com/th/id/OIP.DZ6_TzAjKuKO8VsS9922sgHaHa?w=184&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
   },
   {
     "id": 20,
@@ -157,7 +160,7 @@
     "price": 120,
     "oldPrice": 150,
     "category": "Snacks",
-    "image": "https://images.pexels.com/photos/5908044/pexels-photo-5908044.jpeg"
+    "image": "https://th.bing.com/th/id/OIP.82dzSInvWGqnpK_PjHQRfAHaHa?w=218&h=218&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
   },
   {
     "id": 21,
@@ -165,7 +168,7 @@
     "price": 90,
     "oldPrice": 120,
     "category": "Snacks",
-    "image": "https://images.pexels.com/photos/1374556/pexels-photo-1374556.jpeg"
+    "image": "https://www.curlyscooking.co.uk/wp-content/uploads/2023/03/Air-Fryer-Garlic-Bread-13-1024x1536.jpg"
   },
   {
     "id": 22,
@@ -173,7 +176,7 @@
     "price": 100,
     "oldPrice": 130,
     "category": "Snacks",
-    "image": "https://images.pexels.com/photos/1583883/pexels-photo-1583883.jpeg"
+    "image": "https://www.cookingwithsiddhi.com/wp-content/uploads/2019/07/onion-rings.jpeg"
   },
   {
     "id": 23,
@@ -181,7 +184,7 @@
     "price": 140,
     "oldPrice": 170,
     "category": "Snacks",
-    "image": "https://images.pexels.com/photos/5908045/pexels-photo-5908045.jpeg"
+    "image": "https://th.bing.com/th/id/OIP.wSGridO-UI0LUzlqYr7rKQHaF8?w=228&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
   },
   {
     "id": 24,
@@ -189,7 +192,7 @@
     "price": 150,
     "oldPrice": 180,
     "category": "Snacks",
-    "image": "https://images.pexels.com/photos/6168362/pexels-photo-6168362.jpeg"
+    "image": "https://www.momables.com/wp-content/uploads/2024/03/Crispy-chicken-wrap_SQ.jpg"
   },
   {
     "id": 25,
@@ -197,7 +200,7 @@
     "price": 40,
     "oldPrice": 50,
     "category": "Drinks",
-    "image": "https://images.pexels.com/photos/159393/coca-cola-coke-cold-drink-159393.jpeg"
+    "image": "https://images.pexels.com/photos/24860314/pexels-photo-24860314/free-photo-of-close-up-of-a-coca-cola-can.jpeg?auto=compress&cs=tinysrgb&w=1600"
   },
   {
     "id": 26,
@@ -212,7 +215,7 @@
     "name": "Chocolate Milkshake",
     "price": 90,
     "oldPrice": 120,
-    "category": "Drinks",
+    "category": "Shakes",
     "image": "https://images.pexels.com/photos/414555/pexels-photo-414555.jpeg"
   },
   {
@@ -220,8 +223,8 @@
     "name": "Strawberry Milkshake",
     "price": 100,
     "oldPrice": 130,
-    "category": "Drinks",
-    "image": "https://images.pexels.com/photos/2878749/pexels-photo-2878749.jpeg"
+    "category": "Shakes",
+    "image": "https://www.bing.com/th/id/OIP.0bGRUzd9rmAB_Hz3Jp4lvwHaLG?w=160&h=211&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
   },
   {
     "id": 29,
@@ -237,9 +240,10 @@
     "price": 120,
     "oldPrice": 150,
     "category": "Dessert",
-    "image": "https://images.pexels.com/photos/1813197/pexels-photo-1813197.jpeg"
+    "image": "https://th.bing.com/th/id/OIP.ilU3UJmVzNM-gyoWULg7MwHaEK?w=309&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
   }
-]
+  
+];
 
 // data/restaurants
 const restaurants = [
@@ -251,7 +255,7 @@ const restaurants = [
     deliveryTime: "30 mins",
     location: "Kochi",
     price: "₹299",
-    image: "https://www.pizzahut.com/menu/pizza" // Pizza Hut official menu image
+    image: "https://images.pexels.com/photos/2619970/pexels-photo-2619970.jpeg"
   },
   {
     id: 2,
@@ -261,7 +265,7 @@ const restaurants = [
     deliveryTime: "25 mins",
     location: "Kochi",
     price: "₹199",
-    image: "https://news.bk.com/media-assets/menu-item-and-campaign-images" // Burger King menu image
+    image: "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg"
   },
   {
     id: 3,
@@ -271,7 +275,7 @@ const restaurants = [
     deliveryTime: "35 mins",
     location: "Thrissur",
     price: "₹249",
-    image: "https://media.dominos.com/multimedia/pizza-box/" // Domino's pizza box image
+    image: "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg"
   },
   {
     id: 4,
@@ -281,18 +285,9 @@ const restaurants = [
     deliveryTime: "28 mins",
     location: "Kochi",
     price: "₹349",
-    image: "https://abcnews.go.com/GMA/Food/kfc-free-bucket-fried-chicken-comeback-era/story?id=123735035" // KFC bucket image
+    image: "https://images.pexels.com/photos/7658111/pexels-photo-7658111.jpeg"
   },
-  {
-    id: 5,
-    name: "Sweet Treats",
-    cuisine: "Desserts",
-    rating: 4.5,
-    deliveryTime: "20 mins",
-    location: "Kochi",
-    price: "₹150",
-    image: "https://freedsbakery.com/collections/cakes" // Dessert shop cakes
-  }
+
 ];
 
 export default restaurants;
